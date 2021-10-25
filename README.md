@@ -1,5 +1,5 @@
-# next-whatsapp-chat-plugin
-📲 WhatsApp Chat Plugin for your Nextjs app
+# next-whatsapp-chat-widget
+📲 WhatsApp Chat Plugin/Widget for your Nextjs app
 
 # How to use
 The code's in src/ 
